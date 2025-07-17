@@ -34,4 +34,4 @@ License
 This project is licensed under the MIT License.
 
 
-You can save this as README.md in the root of your project folder. Want a more detailed version?
+
